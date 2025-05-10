@@ -1,0 +1,9 @@
+{
+    "label": "Programming Practices",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "All the programming practices and guidelines for writing proper FRC code."
+    }
+  }
+  
