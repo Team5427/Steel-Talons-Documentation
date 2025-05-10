@@ -7,8 +7,8 @@ import { StrictMode } from 'react';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Steel Talons Documentation',
+  tagline: 'Steel Talons Robotics Documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -19,8 +19,10 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Steel Talons Robotics', // Usually your GitHub org/user name.
-  projectName: 'Steel Talons Documentation', // Usually your repo name.
+  organizationName: 'Team5427', // Usually your GitHub org/user name.
+  projectName: 'Steel-Talons-Documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
