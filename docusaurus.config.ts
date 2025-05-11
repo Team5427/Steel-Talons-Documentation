@@ -19,7 +19,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Team5427 - Steel Talons', // Usually your GitHub org/user name.
+  organizationName: 'Team5427', // Usually your GitHub org/user name.
   projectName: 'Steel-Talons-Documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
