@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/Steel-Talons-Documentation/blog","blogTitle":"Blog","authorsListPath":"/Steel-Talons-Documentation/blog/authors"}')}}]);
