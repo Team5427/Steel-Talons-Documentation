@@ -11,13 +11,11 @@ The documentation assumes you already know how to code in Java. If you do not, m
 
 :::
 
-:::warning 
+:::warning
 Make sure to read the **[Robotics Theory](./theory.md)** documentation page to learn the basics of Robotics.
 :::
 
 Before diving into the code, it's essential to understand the foundational concepts of robotics. Learning the theory behind robotics will give you the context needed to effectively work with the code.
-
-
 
 ### What you'll need
 
@@ -49,7 +47,7 @@ Add the following libraries to your project:
 - CTRE Phoenix 6
 - REVLib
 - AdvantageKit
-- Maple Sim
+- Maple-Sim
 - PathPlannerLib
 - Choreo
 - URCL (Unofficial REV Compatible Logger)
@@ -57,7 +55,6 @@ Add the following libraries to your project:
 - WPILib New-Commands
 
 :::danger Advantage Kit Code Changes
-
 
 Advantage Kit requires significant code changes to compile properly.
 Ensure that you review and adapt your codebase accordingly before integration. Make sure to check the [Advantage Kit Documentation](https://docs.advantagekit.org/getting-started/installation/existing-projects/) for more information.

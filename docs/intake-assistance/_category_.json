@@ -1,0 +1,9 @@
+{
+    "label": "Robotics Intake Theory",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "FRC Programming can use different control theories based on preference. This section will cover the different control theories available in FRC programming."
+    }
+  }
+  

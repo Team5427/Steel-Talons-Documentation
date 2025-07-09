@@ -11,12 +11,9 @@ This documentation will only focus on how we use Command Based Programming **NOT
 
 :::note
 Each layer of the project structure is designed to be modular and abstracted from others. By doing so, each file represents an abstract idea of the robot, and allows us to develop functionality into the correct locations in the robot structure.
-
 :::
 
 ### Robot Structure
-
-#### Robot Structure
 
 ```plaintext
 - Robot

@@ -1,0 +1,3 @@
+# Hard Coded Commands
+
+hard
