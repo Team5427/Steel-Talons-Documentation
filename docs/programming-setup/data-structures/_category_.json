@@ -1,6 +1,6 @@
 {
     "label": "Look-Up Tables",
-    "position": 1,
+    "position": 5,
     "link": {
       "type": "generated-index",
       "description": "LookUp Tables are important data structures that can help us map values in order to callibrate properly"
