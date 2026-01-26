@@ -15,32 +15,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Robotics theory',
+    Svg: require('@site/static/img/FRC.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This documentation covers the fundamentals of robotics and all of the
+        theory behind a robot's general design and basics.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Programming',
+    Svg: require('@site/static/img/WPI.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Throughout this documentation we will dive deep into code structure and
+        its applications in <code>Java</code>, commonly used by most FRC teams.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Robot Vision',
+    Svg: require('@site/static/img/Photon.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        All the basics about robot vision, including camera calibration and
+        robot localization, will be explored in this documentation.
       </>
     ),
   },
