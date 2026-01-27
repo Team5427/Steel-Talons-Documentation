@@ -6,12 +6,12 @@ sidebar_position: 1
 
 ## Getting Started
 
-:::danger
+:::warning
 The documentation assumes you already know how to code in Java. If you do not, many of the code examples will not be understandable. However, you can still learn some higher level concepts.
 
 :::
 
-:::warning
+:::info
 Make sure to read the **[Robotics Theory](./theory.md)** documentation page to learn the basics of Robotics.
 :::
 
