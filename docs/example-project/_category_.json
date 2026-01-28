@@ -1,0 +1,9 @@
+{
+    "label": "Startup",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "FRC programming is for the most part done in Java. This example utilizes WPILib to create a simple skeleton for command based projects."
+    }
+  }
+  

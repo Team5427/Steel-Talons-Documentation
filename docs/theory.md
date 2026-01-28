@@ -87,7 +87,7 @@ The Rotor velocity and acceleration can be changed by altering the electro-magne
 - Requires a motor controller to operate
 - Requires sensors (encoders) to properly spin
 
-![BLDC Motor](../static/img/bldcMotorGeometry.png)
+![BLDC Motor](/img/bldcMotorGeometry.png)
 
 ### Connection between Amperage and Linear Acceleration in BLDC Motors
 

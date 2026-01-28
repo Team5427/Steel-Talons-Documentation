@@ -24,6 +24,13 @@ const sidebars: SidebarsConfig = {
     'intro',
     {
       type: 'category',
+      label: 'Example Project',
+      items: [
+        'example-project/startup'
+      ],
+    },
+    {
+      type: 'category',
       label: 'Robotics Theory',
       items: [
         'theory',
@@ -50,11 +57,10 @@ const sidebars: SidebarsConfig = {
           label: 'Different Command Structures',
           items: [
             'programming-setup/command-structure/hard-coded-commands',
-            'programming-setup/command-structure/state-based-commands'
+            'programming-setup/command-structure/state-based-machines'
           ],
         },
-        'intake-assistance/intake-assistance',
-        'data-structures/lookupTables',
+        'programming-setup/data-structures/lookupTables',
         'wpi-lib-sim/wpilib-pheonix-basics-sim',
       ],
     },
