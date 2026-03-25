@@ -50,11 +50,9 @@ const sidebars: SidebarsConfig = {
           label: 'Different Command Structures',
           items: [
             'programming-setup/command-structure/hard-coded-commands',
-            'programming-setup/command-structure/state-based-commands'
           ],
         },
         'intake-assistance/intake-assistance',
-        'data-structures/lookupTables',
         'wpi-lib-sim/wpilib-pheonix-basics-sim',
       ],
     },
@@ -65,6 +63,13 @@ const sidebars: SidebarsConfig = {
         'vision/vision-intro',
       ],
     },
+    {
+      type: 'category',
+      label: 'Wpical',
+      items: [
+        'wpical/wpical-intro'
+      ]
+    }
   ],
    
 };
